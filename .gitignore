@@ -1,0 +1,15 @@
+# 데이터 · 빌드 결과는 넣지 않는다 (사내 정보)
+serve/
+out/
+입력/
+DXF/
+3D/
+제품도/
+*.xlsx
+*.json
+*.bin
+*.mp4
+*.wav
+*.mp3
+__pycache__/
+node_modules/
